@@ -29,6 +29,6 @@ numpy
 scipy  
 pandas  
 sklearn  
-lasagne
-nolearn
-xgboost
+lasagne  
+nolearn  
+xgboost  
