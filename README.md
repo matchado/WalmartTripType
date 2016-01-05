@@ -2,7 +2,7 @@ WalmartTripType
 ===============
 
 Code to generate submission for the Walmart Trip Type Classification Kaggle Competition
-This submission landed me at `58` on the leaderboard out of a total of `1061` participants
+This submission landed me at `56` on the private leaderboard out of a total of `1061` participants
 
 The data for the competition can be downloaded from `https://www.kaggle.com/c/walmart-recruiting-trip-type-classification/data`
 The code expects `train.csv` and `test.csv` to be present in same directory as the code
